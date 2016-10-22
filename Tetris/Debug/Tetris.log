@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Tetris.cpp
+c:\users\john\documents\visual studio 2015\projects\tetris\tetris\tetris.cpp(297): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\tetris\tetris\tetris.cpp(141): warning C4715: 'Shape::stopPiece': not all control paths return a value
+  Tetris.vcxproj -> c:\users\john\documents\visual studio 2015\Projects\Tetris\Debug\Tetris.exe
